@@ -47,13 +47,4 @@
 
 ---
 
-### 🐍 GitHub Snake Animation  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byryanalfin/byryanalfin/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byryanalfin/byryanalfin/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/byryanalfin/byryanalfin/output/snake.svg">
-</picture>
-
----
-
 ⭐️ *Thanks for visiting my profile! Feel free to connect and collaborate.* 😄
